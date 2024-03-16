@@ -1,11 +1,11 @@
 # Mohit Gupta
 
 🚀 Full-Stack Developer | ReactJS, NodeJS | AWS Enthusiast  
-🎓 B.Tech from IIIT Kottayam, CGPA: 9.12 
+🎓 B.Tech from IIIT Kottayam, CGPA: 9.12  
 🏆 SIH 2023 Finalist | GDSC Winterhacks Winner  
 💻 Tech Club Web Development Lead | BetaLabs, IIITK  
 🌟 Passionate about crafting seamless web experiences and optimizing system functionality  
-🔧 Skills: React, Node, Redux, MongoDB, Git 
+🔧 Skills: React, Node, Redux, MongoDB, Git  
 ✨ Let's build together!  
 
 ## About Me
