@@ -38,4 +38,4 @@ I'm Mohit Gupta, a dedicated Full-Stack Developer with a strong passion for buil
 
 ## Contact Me
 
-Feel free to reach out to me via email at s.adityashinde11@gmail.com or connect with me on [LinkedIn](#) and [GitHub](#).
+Feel free to reach out to me via email at guptamohit01112002@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-gupta0111).
