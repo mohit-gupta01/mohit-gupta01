@@ -21,7 +21,7 @@ I'm Mohit Gupta, a dedicated Full-Stack Developer with a strong passion for buil
 
 ### Flee Portal- Institute’s Outpass System
 - *Tech Stack:* ReactJS, NodeJS, TypeScript, MongoDB, Socketio
-- *Link:* [Flee Portal- Institute’s Outpass System](#)
+- *Link:* [Flee Portal- Institute’s Outpass System](https://outpass.iiitkottayam.ac.in/)
 - *Description:* Spearheaded the continuous maintenance and improvement of the biometric-based outpass management system, reducing 90% physical efforts.
 <!-- 
 ### Agro-Connect
