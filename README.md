@@ -39,18 +39,6 @@ I'm Mohit Gupta, a dedicated Full-Stack Developer with a strong passion for buil
 
 ## Technical Skills
 
-- *Languages:* C++, JavaScript, Python, TypeScript, SQL, Java, HTML/CSS
-- *Frameworks:* ReactJs, NodeJs, Redux, Express, Tailwind, Material UI, GSAP, Lightweight Charts
-- *Tools:* MongoDB, Git, GitHub, MySQL, Figma, Postman
-- *Technologies:* VS Code, AWS console, Google Firebase platform
-
-## Contact Me
-
-Feel free to reach out to me via email at guptamohit01112002@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-gupta0111).
-
-
-
-
 ###
 
 <div align="left">
@@ -100,3 +88,8 @@ Feel free to reach out to me via email at guptamohit01112002@gmail.com or connec
 </div>
 
 ###
+
+
+## Contact Me
+
+Feel free to reach out to me via email at guptamohit01112002@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-gupta0111).
