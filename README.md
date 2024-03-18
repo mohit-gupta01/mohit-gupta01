@@ -12,18 +12,18 @@
 
 I'm Mohit Gupta, a dedicated Full-Stack Developer with a strong passion for building intuitive web applications and optimizing system performance. With a solid background in ReactJS, NodeJS, I thrive in collaborative environments where I can contribute my skills to create impactful solutions.
 
-<!-- ## Projects -->
+## Projects
 
 <!-- ### Betahacks Official Website
 - *Tech Stack:* ReactJS, NodeJS, TypeScript, MongoDB, AWS
 - *Link:* [Betahacks Official Website](#)
-- *Description:* Built the official Cyber Community website with features like secure Authentication, Blogs CRUD, and an intuitive upvote system. Continuously improving and maintaining the platform to meet the dynamic needs of cybersecurity enthusiasts.
+- *Description:* Built the official Cyber Community website with features like secure Authentication, Blogs CRUD, and an intuitive upvote system. Continuously improving and maintaining the platform to meet the dynamic needs of cybersecurity enthusiasts. -->
 
 ### Flee Portal- Institute’s Outpass System
-- *Tech Stack:* ReactJS, NodeJS, TypeScript, MongoDB
+- *Tech Stack:* ReactJS, NodeJS, TypeScript, MongoDB, Socketio
 - *Link:* [Flee Portal- Institute’s Outpass System](#)
 - *Description:* Spearheaded the continuous maintenance and improvement of the biometric-based outpass management system, reducing 90% physical efforts.
-
+<!-- 
 ### Agro-Connect
 - *Tech Stack:* Solidity, ReactJS, Django, Firebase
 - *Link:* [Agro-Connect](#)
