@@ -1,4 +1,4 @@
-# Mohit Gupta
+<h2 align="left">Hi 👋! My name is Mohit Gupta and I'm a Full Stack Developer.</h2>
 
 🚀 Full-Stack Developer | ReactJS, NodeJS | AWS Enthusiast  
 🎓 B.Tech from IIIT Kottayam, CGPA: 9.12  
@@ -40,7 +40,7 @@ I'm Mohit Gupta, a dedicated Full-Stack Developer with a strong passion for buil
 
 Feel free to reach out to me via email at guptamohit01112002@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-gupta0111).
 
-<h2 align="left">Hi 👋! My name is Mohit Gupta and I'm a Full Stack Developer.</h2>
+
 
 ###
 
