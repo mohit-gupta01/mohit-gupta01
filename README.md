@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mohit Gupta and I'm a Full Stack Developer.</h2>
 
 🚀 Full-Stack Developer | ReactJS, NodeJS | AWS Enthusiast  
-🎓 B.Tech from IIIT Kottayam, CGPA: 9.1
+🎓 B.Tech from IIIT Kottayam, CGPA: 9.1  
 🏆 SIH 2023 Finalist | GDSC Winterhacks Winner  
 💻 Tech Club Web Development Lead | BetaLabs, IIITK  
 🌟 Passionate about crafting seamless web experiences and optimizing system functionality  
